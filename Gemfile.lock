@@ -266,7 +266,7 @@ DEPENDENCIES
   coffee-rails
   coveralls
   factory_girl_rails
-  feed_searcher (>= 0.0.6)
+  feed_searcher
   feedzirra!
   haml-rails
   i18n-js!
