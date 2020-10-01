@@ -95,7 +95,8 @@ GEM
     feed_searcher (0.0.6)
       mechanize (>= 1.0.0)
       nokogiri
-    haml (4.0.3)
+    haml (5.2.0)
+      temple (>= 0.8.0)
       tilt
     hike (1.2.3)
     http-cookie (1.0.2)
@@ -224,6 +225,7 @@ GEM
       sprockets (~> 2.8)
     sqlite3 (1.3.8)
     subexec (0.2.3)
+    temple (0.8.2)
     term-ansicolor (1.2.2)
       tins (~> 0.8)
     thin (1.6.0)
